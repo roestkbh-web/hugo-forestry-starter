@@ -32,7 +32,8 @@ To update from upstream (_this repository_) at any time, run the ```Build/merge-
 cd YOUR_NEW_SITE_NAME
 yarn install
 ```
-Now you can use gulp to run the site locally and develop it.
+Now you can use gulp to run the site locally and develop it. 
+PS: If you are on Windows and need to install hugo first, you can run the powershell script in the Build directory.
 
 ## How to setup for CMS and continuous deployment
 
