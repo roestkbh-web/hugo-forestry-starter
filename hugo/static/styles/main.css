@@ -1,0 +1,453 @@
+/* Processed by postcss-normalize based on .browserslistrc
+   Merged into main.pcss by postcss-import */
+html {
+  line-height: 1.15;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+h1 {
+  font-size: 2em;
+  margin: 0.67em 0;
+}
+hr {
+  -webkit-box-sizing: content-box;
+          box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+main {
+  display: block;
+}
+pre {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+a {
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+abbr[title] {
+  text-decoration: underline;
+  -webkit-text-decoration: underline dotted;
+          text-decoration: underline dotted;
+}
+b,
+strong {
+  font-weight: bolder;
+}
+code,
+kbd,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+}
+small {
+  font-size: 80%;
+}
+img {
+  border-style: none;
+}
+svg:not(:root) {
+  overflow: hidden;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  margin: 0;
+}
+button {
+  overflow: visible;
+  text-transform: none;
+}
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+  -webkit-appearance: button;
+}
+button::-moz-focus-inner,
+[type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
+  border-style: none;
+  padding: 0;
+}
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+  outline: 1px dotted ButtonText;
+}
+fieldset {
+  padding: 0.35em 0.75em 0.625em;
+}
+input {
+  overflow: visible;
+}
+legend {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  color: inherit;
+  display: table;
+  max-width: 100%;
+  padding: 0;
+  white-space: normal;
+}
+progress {
+  display: inline-block;
+  vertical-align: baseline;
+}
+select {
+  text-transform: none;
+}
+textarea {
+  overflow: auto;
+}
+[type="checkbox"],
+[type="radio"] {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 0;
+}
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+  height: auto;
+}
+[type="search"] {
+  -webkit-appearance: textfield;
+  outline-offset: -2px;
+}
+[type="search"]::-webkit-search-cancel-button,
+[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  font: inherit;
+}
+details {
+  display: block;
+}
+summary {
+  display: list-item;
+}
+template {
+  display: none;
+}
+[hidden] {
+  display: none;
+}
+:root {
+
+  /* Change resolution when to show menu on scroll-up.
+    All the menu items must fit inside the resolution, otherwise
+    the feature will break. */ /* not used, must use custom-media stuff */
+}
+/*! HTML5 Boilerplate v6.0.1 | MIT License | https://html5boilerplate.com/ */
+/*
+ * What follows is the result of much research on cross-browser styling.
+ * Credit left inline and big thanks to Nicolas Gallagher, Jonathan Neal,
+ * Kroc Camen, and the H5BP dev community and team.
+ */
+/* ==========================================================================
+   Base styles: opinionated defaults
+   ========================================================================== */
+html {
+  color: rgb(232, 232, 232);
+  font-size: 1em;
+  line-height: 1.4;
+}
+/*
+ * Remove text-shadow in selection highlight:
+ * https://twitter.com/miketaylr/status/12228805301
+ *
+ * Vendor-prefixed and regular ::selection selectors cannot be combined:
+ * https://stackoverflow.com/a/16982510/7133471
+ *
+ * Customize the background color to match your design.
+ */
+::-moz-selection {
+  background: rgb(179, 212, 252);
+  text-shadow: none;
+}
+::selection {
+  background: rgb(179, 212, 252);
+  text-shadow: none;
+}
+/*
+ * A better looking default horizontal rule
+ */
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid rgb(136, 136, 136);
+  margin: 1em 0;
+  padding: 0;
+}
+/*
+ * Remove the gap between audio, canvas, iframes,
+ * images, videos and the bottom of their containers:
+ * https://github.com/h5bp/html5-boilerplate/issues/440
+ */
+audio,
+canvas,
+iframe,
+img,
+svg,
+video {
+  vertical-align: middle;
+}
+/*
+ * Remove default fieldset styles.
+ */
+fieldset {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+/*
+ * Allow only vertical resizing of textareas.
+ */
+textarea {
+  resize: vertical;
+}
+/* ==========================================================================
+   Browser Upgrade Prompt
+   ========================================================================== */
+.browserupgrade {
+  margin: 0.2em 0;
+  background: rgb(232, 232, 232);
+  color: rgb(34, 34, 34);
+  padding: 0.2em 0;
+}
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+  color: rgb(232, 232, 232);
+  background-color: rgb(34, 34, 34);
+}
+header {
+  background-color: rgb(232, 232, 232);
+  color: rgb(34, 34, 34);
+  padding: 1em;
+}
+footer {
+  color: rgb(232, 232, 232);
+  background-color: rgb(34, 34, 34);
+  padding: 1em;
+}
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+/*
+ * Hide visually and from screen readers
+ */
+.hidden {
+  display: none !important;
+}
+/*
+ * Hide only visually, but have it available for screen readers:
+ * https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+ *
+ * 1. For long content, line feeds are not interpreted as spaces and small width
+ *    causes content to wrap 1 word per line:
+ *    https://medium.com/@jessebeach/beware-smushed-off-screen-accessible-text-5952a4c2cbfe
+ */
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  -webkit-clip-path: inset(50%);
+  clip-path: inset(50%);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap; /* 1 */
+}
+/*
+ * Extends the .visuallyhidden class to allow the element
+ * to be focusable when navigated to via the keyboard:
+ * https://www.drupal.org/node/897638
+ */
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+  clip: auto;
+  -webkit-clip-path: none;
+  clip-path: none;
+  height: auto;
+  margin: 0;
+  overflow: visible;
+  position: static;
+  width: auto;
+  white-space: inherit;
+}
+/*
+ * Hide visually and from screen readers, but maintain layout
+ */
+.invisible {
+  visibility: hidden;
+}
+/*
+ * Clearfix: contain floats
+ *
+ * For modern browsers
+ * 1. The space content is one way to avoid an Opera bug when the
+ *    `contenteditable` attribute is included anywhere else in the document.
+ *    Otherwise it causes space to appear at the top and bottom of elements
+ *    that receive the `clearfix` class.
+ * 2. The use of `table` rather than `block` is only necessary if using
+ *    `:before` to contain the top-margins of child elements.
+ */
+.clearfix:before,
+.clearfix:after {
+  content: " "; /* 1 */
+  display: table; /* 2 */
+}
+.clearfix:after {
+  clear: both;
+}
+/*
+ * Padding control
+ */
+/* ==========================================================================
+   Responsive images
+   ========================================================================== */
+[data-responsive-background-image] {
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+[data-responsive-background-image] img {
+  display: none;
+}
+/* ==========================================================================
+   Theme modifications
+   ========================================================================== */
+a, p a {
+  color: rgb(187, 187, 187)
+}
+a:hover, a:focus, p a:hover, p a:focus {
+  color: rgb(0, 133, 161);
+}
+a.no-hover:hover {
+  /* Added with jQuery for anchors with images */
+  text-decoration: none;
+}
+/* Footer icon alignments */
+footer .fa.fa-facebook {
+  padding-right: 3px;
+}
+footer .fa.fa-envelope-o {
+  padding-right: 1px;
+}
+/* Footer text align with Hugo logo */
+footer .copyright {
+  font-size: 16px;
+  line-height: 23px;
+}
+/* Images */
+p img {
+  width: 100%;
+}
+a img {
+  cursor: pointer !important;
+}
+/* Menu */
+.navbar-brand img {
+   margin-top: -15px;
+   max-height: 50px;
+}
+/*
+Bootstrap media query sizes:
+small = (min-width:768px)
+medium = (min-width:992px)
+large = (min-width:1200px)
+*/
+/* Instagram widget (move to other file) */
+.instagram-widget {
+  background: rgb(254, 254, 254);
+  padding: 10px
+}
+.instagram-widget p {
+  margin: 10px 0;
+}
+.instagram-widget h3 {
+  color: rgb(34, 34, 34);
+}
+.instagram-widget ul {
+  margin-bottom: 20px;
+}
+.instagram-widget .logo {
+  width: 60%;
+  max-width: 100px;
+  border: 1px solid #dbdbdb;
+}
+.instagram-widget .fa-lg {
+  line-height: 1.5em;
+}
+.instagram-widget .btn {
+  text-transform: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+}
+.instagram-widget a {
+  text-decoration: none;
+}
+@media only screen and (min-width: 768px) { 
+  .sm-nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  .navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus {
+    color: rgba(255, 255, 255, 0.8);
+  }
+}
+@media only screen and (min-width: 992px) { 
+  .md-nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}
+@media only screen and (min-width: 1200px) { 
+  .lg-nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}
+@media only screen and (min-width: 1024px) {
+  .navbar-custom.is-fixed .navbar-brand {
+    color: rgb(254, 254, 254);
+  }
+  .navbar-custom.is-visible {
+    -webkit-transform: translate3d(0,100%,0);
+    transform: translate3d(0,100%,0);
+  }
+  .navbar-custom.is-fixed {
+    position: fixed;
+    top: -61px;
+    background-color: rgba(17, 17, 17, 0.9);
+    border-bottom: 1px solid rgb(17, 17, 17);
+    -webkit-transition: -webkit-transform .3s;
+    transition: -webkit-transform .3s;
+    transition: transform .3s;
+    transition: transform .3s, -webkit-transform .3s;
+  }
+  .navbar-custom {
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    -webkit-transform: translate3d(0,0,0);
+    transform: translate3d(0,0,0);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  .navbar-custom.is-fixed .nav li a {
+    color: rgb(254, 254, 254);
+  }
+}
+/*# sourceMappingURL=main.css.map */
