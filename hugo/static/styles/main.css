@@ -351,6 +351,10 @@ footer .copyright {
   font-size: 16px;
   line-height: 23px;
 }
+/* Footer font */
+footer {
+  font-family: 'Lora', 'Open Sans', 'Times New Roman', serif;
+}
 /* Images */
 p img {
   width: 100%;
