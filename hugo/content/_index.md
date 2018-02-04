@@ -1,7 +1,7 @@
 ---
 title: Home
 type: page
-image: ""
+image: ''
 subtitle: pop du næsten kender
 
 ---
