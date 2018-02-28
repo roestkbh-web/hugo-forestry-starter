@@ -5,6 +5,6 @@ subtitle = ""
 title = "Book"
 type = "page"
 [menu.main]
-weight = 4
+weight = 11
 
 +++

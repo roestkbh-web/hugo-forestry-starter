@@ -7,7 +7,7 @@ date: 2018-02-28 11:16:04 +0000
 menu:
   main:
     name: Lyt
-    weight: 2
+    weight: 9
 
 ---
 Røst er pop du næsten kender.
