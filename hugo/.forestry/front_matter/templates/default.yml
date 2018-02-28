@@ -1,5 +1,6 @@
 ---
 pages:
+- omtale.md
 - om-roest.md
 - _index.md
 hide_body: false
