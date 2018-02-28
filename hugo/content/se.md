@@ -4,5 +4,7 @@ image = ""
 subtitle = ""
 title = "Se"
 type = "page"
+[menu.main]
+weight = 3
 
 +++

@@ -4,5 +4,8 @@ image = ""
 subtitle = ""
 title = "Kalender"
 type = "page"
+[menu.main]
+name = "Syng"
+weight = 5
 
 +++

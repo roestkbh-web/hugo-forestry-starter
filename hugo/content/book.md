@@ -4,5 +4,7 @@ image = ""
 subtitle = ""
 title = "Book"
 type = "page"
+[menu.main]
+weight = 4
 
 +++

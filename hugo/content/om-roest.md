@@ -4,5 +4,8 @@ image = ""
 subtitle = ""
 title = "Om Røst"
 type = "page"
+[menu.main]
+name = "Om"
+weight = 1
 
 +++

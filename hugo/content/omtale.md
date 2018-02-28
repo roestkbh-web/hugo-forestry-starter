@@ -4,5 +4,8 @@ image = ""
 subtitle = ""
 title = "Omtale"
 type = "page"
+[menu.main]
+name = "Presse"
+weight = 7
 
 +++

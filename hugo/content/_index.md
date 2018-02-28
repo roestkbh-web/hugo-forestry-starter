@@ -4,6 +4,10 @@ type: page
 image: ''
 subtitle: pop du næsten kender
 date: 2018-02-28 11:16:04 +0000
+menu:
+  main:
+    name: Lyt
+    weight: 2
 
 ---
 Røst er pop du næsten kender.
