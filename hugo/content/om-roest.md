@@ -6,6 +6,6 @@ title = "Om Røst"
 type = "page"
 [menu.main]
 name = "Om"
-weight = 8
+weight = 2
 
 +++

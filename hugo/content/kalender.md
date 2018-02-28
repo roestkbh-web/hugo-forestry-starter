@@ -6,6 +6,6 @@ title = "Kalender"
 type = "page"
 [menu.main]
 name = "Syng"
-weight = 12
+weight = 6
 
 +++
