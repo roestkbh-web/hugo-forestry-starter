@@ -1,5 +1,5 @@
 +++
-date = "2018-03-09T17:05:11+00:00"
+date = "2018-03-09T17:05:11Z"
 image = ""
 subtitle = ""
 title = "Presse"
