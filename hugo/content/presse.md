@@ -5,5 +5,7 @@ image = ""
 subtitle = ""
 title = "Presse"
 type = "page"
+[menu.main]
+weight = 1
 
 +++
