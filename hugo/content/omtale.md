@@ -7,6 +7,6 @@ title = "Omtale"
 type = "page"
 [menu.main]
 name = "Presse"
-weight = 2
+weight = 8
 
 +++
