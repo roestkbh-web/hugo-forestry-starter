@@ -5,7 +5,8 @@ subtitle = ""
 title = "Kalender"
 type = "page"
 [menu.main]
-name = "Syng"
-weight = 6
+name = "Oplev"
+weight = 7
 
 +++
+Kalender
