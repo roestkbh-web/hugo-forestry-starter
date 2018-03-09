@@ -4,5 +4,7 @@ image = ""
 subtitle = ""
 title = "Syng"
 type = "page"
+[menu.main]
+weight = 6
 
 +++

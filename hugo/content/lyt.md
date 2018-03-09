@@ -4,6 +4,8 @@ image = "/uploads/2018/03/08/IMG_5109.JPG"
 subtitle = ""
 title = "Lyt"
 type = "page"
+[menu.main]
+weight = 3
 
 +++
 {{< soundcloud 402951642 >}}  
