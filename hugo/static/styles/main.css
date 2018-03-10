@@ -344,7 +344,7 @@ footer .fa.fa-facebook {
   padding-right: 3px;
 }
 footer .fa.fa-envelope-o {
-  padding-right: 1px;
+  padding-right: 0px;
 }
 /* Footer text align with Hugo logo */
 footer .copyright {
@@ -373,36 +373,6 @@ small = (min-width:768px)
 medium = (min-width:992px)
 large = (min-width:1200px)
 */
-/* Instagram widget (move to other file) */
-.instagram-widget {
-  background: rgb(254, 254, 254);
-  padding: 10px
-}
-.instagram-widget p {
-  margin: 10px 0;
-}
-.instagram-widget h3 {
-  color: rgb(34, 34, 34);
-}
-.instagram-widget ul {
-  margin-bottom: 20px;
-}
-.instagram-widget .logo {
-  width: 60%;
-  max-width: 100px;
-  border: 1px solid #dbdbdb;
-}
-.instagram-widget .fa-lg {
-  line-height: 1.5em;
-}
-.instagram-widget .btn {
-  text-transform: none;
-  padding: 6px 12px;
-  border-radius: 4px;
-}
-.instagram-widget a {
-  text-decoration: none;
-}
 @media only screen and (min-width: 768px) { 
   .sm-nopadding {
     padding: 0 !important;
@@ -454,4 +424,5 @@ large = (min-width:1200px)
     color: rgb(254, 254, 254);
   }
 }
+
 /*# sourceMappingURL=main.css.map */
