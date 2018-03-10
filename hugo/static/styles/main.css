@@ -220,7 +220,7 @@ textarea {
 .browserupgrade {
   margin: 0.2em 0;
   background: rgb(232, 232, 232);
-  color: rgb(34, 34, 34);
+  color: rgb(21, 21, 21);
   padding: 0.2em 0;
 }
 /* ==========================================================================
@@ -228,16 +228,16 @@ textarea {
    ========================================================================== */
 body {
   color: rgb(232, 232, 232);
-  background-color: rgb(34, 34, 34);
+  background-color: rgb(21, 21, 21);
 }
 header {
   background-color: rgb(232, 232, 232);
-  color: rgb(34, 34, 34);
+  color: rgb(21, 21, 21);
   padding: 1em;
 }
 footer {
   color: rgb(232, 232, 232);
-  background-color: rgb(34, 34, 34);
+  background-color: rgb(21, 21, 21);
   padding: 1em;
 }
 /* ==========================================================================
