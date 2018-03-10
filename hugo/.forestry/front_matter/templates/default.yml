@@ -1,13 +1,13 @@
 ---
 pages:
-- presse.md
-- _index.md
-- om-roest.md
-- lyt.md
-- se.md
-- book.md
-- kalender.md
 - syng.md
+- kalender.md
+- book.md
+- se.md
+- lyt.md
+- om-roest.md
+- _index.md
+- presse.md
 hide_body: false
 fields:
 - name: title
