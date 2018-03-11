@@ -8,6 +8,7 @@ pages:
 - om-roest.md
 - _index.md
 - presse.md
+- events/_index.md
 hide_body: false
 fields:
 - name: title
