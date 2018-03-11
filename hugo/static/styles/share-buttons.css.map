@@ -1,0 +1,1 @@
+{"version":3,"sources":["share-buttons.pcss"],"names":[],"mappings":"AAAA;EACE,YAAY;EACZ,aAAa;EACb,UAAU;EACV,sBAAc;UAAd,cAAc;EACd,gBAAgB;CACjB","file":"share-buttons.css","sourcesContent":["#share-buttons img {\n  width: 35px;\n  padding: 5px;\n  border: 0;\n  box-shadow: 0;\n  display: inline;\n}"]}
