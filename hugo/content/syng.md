@@ -5,7 +5,7 @@ subtitle = ""
 title = "Syng"
 type = "page"
 [menu.main]
-weight = 7
+weight = 6
 
 +++
 Ansøg

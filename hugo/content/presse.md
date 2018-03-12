@@ -5,7 +5,7 @@ subtitle = ""
 title = "Presse"
 type = "page"
 [menu.main]
-weight = 8
+weight = 7
 
 +++
 presse
