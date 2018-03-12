@@ -7,7 +7,7 @@ subtitle = ""
 title = "Kalender"
 type = "page"
 [menu.main]
-weight = 9
+weight = 5
 
 +++
 ### Kommende begivenheder
