@@ -1,12 +1,12 @@
 ---
 pages:
-- presse.md
-- _index.md
-- om-roest.md
-- lyt.md
-- se.md
-- book.md
 - syng.md
+- book.md
+- se.md
+- lyt.md
+- om-roest.md
+- _index.md
+- presse.md
 - events/_index.md
 hide_body: false
 fields:
