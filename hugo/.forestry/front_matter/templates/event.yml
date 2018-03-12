@@ -11,16 +11,23 @@ fields:
   type: textarea
   hidden: false
   default: ''
+  config:
+    wysiwyg: true
 - name: date
   label: Date
   type: datetime
   hidden: false
-  default: ''
+  default: Invalid date
+  config:
+    date_format: DD/MM YYYY
+    required: true
 - name: endDate
   label: End Date
   type: datetime
   hidden: false
-  default: ''
+  default: Invalid date
+  config:
+    date_format: DD/MM YYYY
 - name: image
   label: Image
   type: file
