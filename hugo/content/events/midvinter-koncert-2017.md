@@ -1,5 +1,5 @@
 +++
-date = "2018-03-12T20:15:41+00:00"
+date = "2018-03-12T20:15:41Z"
 description = ""
 draft = true
 endDate = ""
