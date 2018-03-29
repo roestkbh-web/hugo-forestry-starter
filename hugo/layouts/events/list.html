@@ -22,7 +22,7 @@
       </div>
     </div>
     <br>
-    {{ $events := where .Site.Pages.ByDate "Section" "events" }}
+    {{ $events := where .Site.RegularPages.ByDate "Section" "events" }}
     {{ range where $events "Date" "ge" (now.AddDate 0 0 -1) }}
       {{ partial "event-card.html" . }}<br>
     {{end}}
