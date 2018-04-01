@@ -139,12 +139,6 @@ template {
 [hidden] {
   display: none;
 }
-:root {
-
-  /* Change resolution when to show menu on scroll-up.
-    All the menu items must fit inside the resolution, otherwise
-    the feature will break. */ /* not used, must use custom-media stuff */
-}
 /*! HTML5 Boilerplate v6.0.1 | MIT License | https://html5boilerplate.com/ */
 /*
  * What follows is the result of much research on cross-browser styling.
@@ -344,7 +338,7 @@ footer .fa.fa-facebook {
   padding-right: 3px;
 }
 footer .fa.fa-envelope-o {
-  padding-right: 0px;
+  padding-right: 1px;
 }
 /* Footer text align with Hugo logo */
 footer .copyright {
@@ -355,6 +349,9 @@ footer .copyright {
 footer {
   font-family: 'Lora', 'Open Sans', 'Times New Roman', serif;
 }
+.text-muted {
+  color: rgb(119, 119, 119);
+}
 /* Images */
 p img {
   width: 100%;
@@ -364,8 +361,33 @@ a img {
 }
 /* Menu */
 .navbar-brand img {
-   margin-top: -15px;
-   max-height: 50px;
+  margin-top: -15px;
+  max-height: 50px;
+}
+/* Allow clicks through top menu */
+.navbar {
+  pointer-events: none;
+}
+.navbar-header {
+  pointer-events: auto;
+}
+.navbar-brand {
+  pointer-events: auto;
+}
+.navbar .nav li {
+  pointer-events: auto;
+}
+.navbar.is-fixed.is-visible {
+  pointer-events: auto;
+}
+.navbar .nav li a:hover, .navbar .nav li a:focus {
+  color: rgba(85, 85, 85, 0.8);
+}
+.navbar .nav li a {
+  color: rgb(34, 34, 34);
+}
+.navbar + div, .navbar + header, .navbar + article {
+  margin-top: 50px;
 }
 /*
 Bootstrap media query sizes:
@@ -378,8 +400,16 @@ large = (min-width:1200px)
     padding: 0 !important;
     margin: 0 !important;
   }
-  .navbar-custom .nav li a:hover, .navbar-custom .nav li a:focus {
+  .navbar + div, .navbar + header, .navbar + article {
+    margin-top: 0;
+  }
+  .navbar .nav li a:hover, .navbar .nav li a:focus,
+  .navbar.is-fixed .nav li a:hover, .navbar.is-fixed .nav li a:focus {
     color: rgba(255, 255, 255, 0.8);
+  }
+  .navbar .nav li a,
+  .navbar.is-fixed .nav li a {
+    color: rgb(254, 254, 254);
   }
 }
 @media only screen and (min-width: 992px) { 
@@ -395,14 +425,11 @@ large = (min-width:1200px)
   }
 }
 @media only screen and (min-width: 1024px) {
-  .navbar-custom.is-fixed .navbar-brand {
-    color: rgb(254, 254, 254);
-  }
-  .navbar-custom.is-visible {
+  .navbar.is-visible {
     -webkit-transform: translate3d(0,100%,0);
     transform: translate3d(0,100%,0);
   }
-  .navbar-custom.is-fixed {
+  .navbar.is-fixed {
     position: fixed;
     top: -61px;
     background-color: rgba(17, 17, 17, 0.9);
@@ -412,16 +439,13 @@ large = (min-width:1200px)
     transition: transform .3s;
     transition: transform .3s, -webkit-transform .3s;
   }
-  .navbar-custom {
+  .navbar {
     -webkit-transition: background-color .3s;
     transition: background-color .3s;
     -webkit-transform: translate3d(0,0,0);
     transform: translate3d(0,0,0);
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-  }
-  .navbar-custom.is-fixed .nav li a {
-    color: rgb(254, 254, 254);
   }
 }
 

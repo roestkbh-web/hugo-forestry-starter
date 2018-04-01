@@ -1,10 +1,3 @@
-:root {
-
-  /* Change resolution when to show menu on scroll-up.
-    All the menu items must fit inside the resolution, otherwise
-    the feature will break. */ /* not used, must use custom-media stuff */
-}
-
 .instagram-widget {
   background: rgba(254, 254, 254, 0.98);
   padding: 10px
