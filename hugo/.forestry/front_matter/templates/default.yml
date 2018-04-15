@@ -9,6 +9,7 @@ pages:
 - syng.md
 - events/_index.md
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
