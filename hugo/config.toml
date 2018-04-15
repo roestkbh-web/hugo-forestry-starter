@@ -1,4 +1,4 @@
-baseurl = "https://roestkbh-web.github.io/"
+baseurl = "https://www.roestkbh.dk/"
 canonifyurls = false
 copyright = "Open Source under the MIT license."
 disableKinds = ["RSS", "404", "taxonomyTerm", "taxonomy"]
