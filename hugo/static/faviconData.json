@@ -3,21 +3,21 @@
     "status": "success"
   },
   "favicon": {
-    "package_url": "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/favicon_package_v0.16.zip",
+    "package_url": "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/favicon_package_v0.16.zip",
     "files_urls": [
-      "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/package_files/android-chrome-96x96.png",
-      "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/package_files/apple-touch-icon.png",
-      "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/package_files/browserconfig.xml",
-      "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/package_files/favicon-16x16.png",
-      "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/package_files/favicon-32x32.png",
-      "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/package_files/favicon.ico",
-      "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/package_files/mstile-150x150.png",
-      "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/package_files/mstile-310x150.png",
-      "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/package_files/mstile-70x70.png",
-      "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/package_files/safari-pinned-tab.svg",
-      "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/package_files/site.webmanifest"
+      "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/package_files/android-chrome-96x96.png",
+      "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/package_files/apple-touch-icon.png",
+      "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/package_files/browserconfig.xml",
+      "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/package_files/favicon-16x16.png",
+      "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/package_files/favicon-32x32.png",
+      "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/package_files/favicon.ico",
+      "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/package_files/mstile-150x150.png",
+      "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/package_files/mstile-310x150.png",
+      "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/package_files/mstile-70x70.png",
+      "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/package_files/safari-pinned-tab.svg",
+      "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/package_files/site.webmanifest"
     ],
-    "html_code": "<link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"/apple-touch-icon.png?v=561171d595cf4fcd62742e1ede90bb71bf2a6ffb\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon-32x32.png?v=561171d595cf4fcd62742e1ede90bb71bf2a6ffb\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon-16x16.png?v=561171d595cf4fcd62742e1ede90bb71bf2a6ffb\">\n<link rel=\"manifest\" href=\"/site.webmanifest?v=561171d595cf4fcd62742e1ede90bb71bf2a6ffb\">\n<link rel=\"mask-icon\" href=\"/safari-pinned-tab.svg?v=561171d595cf4fcd62742e1ede90bb71bf2a6ffb\" color=\"#5bbad5\">\n<link rel=\"shortcut icon\" href=\"/favicon.ico?v=561171d595cf4fcd62742e1ede90bb71bf2a6ffb\">\n<meta name=\"msapplication-TileColor\" content=\"#da532c\">\n<meta name=\"theme-color\" content=\"#ffffff\">",
+    "html_code": "<link rel=\"apple-touch-icon\" sizes=\"76x76\" href=\"/apple-touch-icon.png?v=7159d0dafd547452ccbf79dac14a79dcdfcde088\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"/favicon-32x32.png?v=7159d0dafd547452ccbf79dac14a79dcdfcde088\">\n<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"/favicon-16x16.png?v=7159d0dafd547452ccbf79dac14a79dcdfcde088\">\n<link rel=\"manifest\" href=\"/site.webmanifest?v=7159d0dafd547452ccbf79dac14a79dcdfcde088\">\n<link rel=\"mask-icon\" href=\"/safari-pinned-tab.svg?v=7159d0dafd547452ccbf79dac14a79dcdfcde088\" color=\"#5bbad5\">\n<link rel=\"shortcut icon\" href=\"/favicon.ico?v=7159d0dafd547452ccbf79dac14a79dcdfcde088\">\n<meta name=\"msapplication-TileColor\" content=\"#da532c\">\n<meta name=\"theme-color\" content=\"#ffffff\">",
     "compression": "false",
     "overlapping_markups": [
       "link[rel=\"apple-touch-icon\"]",
@@ -35,7 +35,7 @@
     "type": "path",
     "path": "/"
   },
-  "preview_picture_url": "https://realfavicongenerator.net/files/6dfcb2be64dadd6789e7cfd009b17e6503a62fda/favicon_preview.png",
+  "preview_picture_url": "https://realfavicongenerator.net/files/14fe697219fa1f1c0616ecd26934a2d2f8f90a9d/favicon_preview.png",
   "version": "0.16",
-  "generated_hash": "561171d595cf4fcd62742e1ede90bb71bf2a6ffb"
+  "generated_hash": "7159d0dafd547452ccbf79dac14a79dcdfcde088"
 }
