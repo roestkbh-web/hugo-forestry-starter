@@ -1,4 +1,4 @@
-baseurl = "https://www.roestkbh.dk/"
+baseurl = "http://roestkbh-hugo-forestry.netlify.com/"
 canonifyurls = false
 copyright = "Open Source under the MIT license."
 disableKinds = ["404", "taxonomyTerm", "taxonomy"]
