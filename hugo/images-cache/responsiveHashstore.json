@@ -1,25 +1,142 @@
 {
+  "version": "0.2.0",
   "invalidateObjectHash": "a8d8b13948ac523bffa0232af4483d0a8ab0237e",
-  "files": [
+  "outputTrackingEnabled": true,
+  "inputs": [
     {
       "file": "hugo/static/uploads/2018/01/09/DSC_0027.jpg",
-      "generated_hash": "e8c20253b9fd3221342de5df8a36807f7bccb65c"
+      "generated_hash": "e8c20253b9fd3221342de5df8a36807f7bccb65c",
+      "last_changed": 1529836573507,
+      "outputs": [
+        {
+          "file": "hugo/images-cache/2018/01/09/DSC_0027-320x.jpg",
+          "generated_hash": "5f06c52f1ab90ae65b2cb741301810adafcf917c",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/01/09/DSC_0027-640x.jpg",
+          "generated_hash": "83fc504a1bb61b88e8541e50b38d5ddefdc1f512",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/01/09/DSC_0027-1280x.jpg",
+          "generated_hash": "ee7d8f641a81ab8ccb8ae7ee06bb826c872625e1",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/01/09/DSC_0027-1920x.jpg",
+          "generated_hash": "a9f1263f127d7bea7c3524b2be1aedb132e4d6f3",
+          "last_changed": 1529836573507
+        }
+      ]
     },
     {
       "file": "hugo/static/uploads/2018/03/08/IMG_5109.jpg",
-      "generated_hash": "d454b319c7548f9c6ddb4c48b9dd1a782e94f628"
+      "generated_hash": "d454b319c7548f9c6ddb4c48b9dd1a782e94f628",
+      "last_changed": 1529836573507,
+      "outputs": [
+        {
+          "file": "hugo/images-cache/2018/03/08/IMG_5109-320x.jpg",
+          "generated_hash": "8cfe2bb357c876166855e5b8d5bad58c6976e386",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/08/IMG_5109-640x.jpg",
+          "generated_hash": "27a5b07d36592e6c05bb438a5e5718e954d8f541",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/08/IMG_5109-1280x.jpg",
+          "generated_hash": "2ba5e65d6d5dd47507ad139cd04854d70ef66ae5",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/08/IMG_5109-1920x.jpg",
+          "generated_hash": "3738925e93d4bf383a4fe746e9d03b6284c44303",
+          "last_changed": 1529836573507
+        }
+      ]
     },
     {
       "file": "hugo/static/uploads/2018/03/09/21167191_1856144577735448_8256052994325323863_o.jpg",
-      "generated_hash": "48585ddcba8124ee0139a3e55f3c0252cfe768a4"
+      "generated_hash": "48585ddcba8124ee0139a3e55f3c0252cfe768a4",
+      "last_changed": 1529836573507,
+      "outputs": [
+        {
+          "file": "hugo/images-cache/2018/03/09/21167191_1856144577735448_8256052994325323863_o-320x.jpg",
+          "generated_hash": "630960decadf67fefc3458df3fa67eee920fdf2a",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/09/21167191_1856144577735448_8256052994325323863_o-640x.jpg",
+          "generated_hash": "a57cf2d25c22507b85335884f81f54923adb3c58",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/09/21167191_1856144577735448_8256052994325323863_o-1280x.jpg",
+          "generated_hash": "e30c8b8e07b7c82776fd7c43c9d12a2927afdb93",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/09/21167191_1856144577735448_8256052994325323863_o-1920x.jpg",
+          "generated_hash": "328ab55c14d52c2ece31b000af8a672ed927eddc",
+          "last_changed": 1529836573507
+        }
+      ]
     },
     {
       "file": "hugo/static/uploads/2018/03/09/IMG_0382.jpg",
-      "generated_hash": "9f803e463197cbc3a197f039e1a7872253a71f14"
+      "generated_hash": "9f803e463197cbc3a197f039e1a7872253a71f14",
+      "last_changed": 1529836573507,
+      "outputs": [
+        {
+          "file": "hugo/images-cache/2018/03/09/IMG_0382-320x.jpg",
+          "generated_hash": "9f3256818cf359070162d51f66f8d0e7d37b50d5",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/09/IMG_0382-640x.jpg",
+          "generated_hash": "71d152f8e7aaf37ec9d8745c88de7b1c4765cb38",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/09/IMG_0382-1280x.jpg",
+          "generated_hash": "c85d4e69b7484af3a04d2a1ab0a8c180a2924a62",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/09/IMG_0382-1920x.jpg",
+          "generated_hash": "7a1e3d703d7634caafd0b20ae0e81951633d75d2",
+          "last_changed": 1529836573507
+        }
+      ]
     },
     {
       "file": "hugo/static/uploads/2018/03/12/midvinter-koncert-2017.jpg",
-      "generated_hash": "dd82400ed2c5668e402a671145af2fa3c03791b0"
+      "generated_hash": "dd82400ed2c5668e402a671145af2fa3c03791b0",
+      "last_changed": 1529836573507,
+      "outputs": [
+        {
+          "file": "hugo/images-cache/2018/03/12/midvinter-koncert-2017-320x.jpg",
+          "generated_hash": "8474dd30efbf5f168f396c2d42a0248ad09d7a17",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/12/midvinter-koncert-2017-640x.jpg",
+          "generated_hash": "940a30f75f727681fe2ce938a641e8fae27cfe86",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/12/midvinter-koncert-2017-1280x.jpg",
+          "generated_hash": "186f041939667e35062bdeaf5c2c4577cd115607",
+          "last_changed": 1529836573507
+        },
+        {
+          "file": "hugo/images-cache/2018/03/12/midvinter-koncert-2017-1920x.jpg",
+          "generated_hash": "5097274996f7eb6e3d2cdc84b2a00710ebcd9155",
+          "last_changed": 1529836573507
+        }
+      ]
     }
   ]
 }

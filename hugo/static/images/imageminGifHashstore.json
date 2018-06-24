@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "outputTrackingEnabled": true,
+  "inputs": [
+    {
+      "file": "src/images/loading.gif",
+      "generated_hash": "ea1f5f69a134b75273a60d134de63370144df0f2",
+      "last_changed": 1529836573507,
+      "outputs": [
+        {
+          "file": "hugo/static/images/loading.gif",
+          "generated_hash": "4fafaf4d3f078813fb746a6e670f5806bf0b1070",
+          "last_changed": 1529836573507
+        }
+      ]
+    }
+  ]
+}
