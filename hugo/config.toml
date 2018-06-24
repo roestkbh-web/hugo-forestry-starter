@@ -4,14 +4,18 @@ copyright = "Open Source under the MIT license."
 disableKinds = ["404", "taxonomyTerm", "taxonomy"]
 enableEmoji = true
 googleAnalytics = ""
-languageCode = "en-us"
+DefaultContentLanguage = "da"
 paginate = 10
 relativeurls = false
 theme = "startbootstrap-clean-blog"
 title = "Røst"
 [author]
 name = "Røst"
-[[menu.main]]
+[languages]
+[languages.da]
+weight = 1
+languageName = "Dansk"
+[[languages.da.menu.main]]
 identifier = "home"
 name = "Forside"
 url = "/"
